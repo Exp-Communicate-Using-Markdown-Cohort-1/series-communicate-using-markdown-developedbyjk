@@ -7,3 +7,9 @@
 
 ![this is alt img](https://octodex.github.com/images/hula_loop_octodex03.gif)
 
+```
+
+this is block of code
+
+```
+
