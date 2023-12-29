@@ -13,3 +13,5 @@ this is block of code
 
 ```
 
+- [ ] this is task
+- [x]  a completed task
